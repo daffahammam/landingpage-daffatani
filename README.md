@@ -1,12 +1,54 @@
-# React + Vite
+# 🌾 Daffa Tani Delanggu – Landing Page Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Daffa Tani Delanggu** adalah website landing page untuk toko pertanian yang berlokasi di Delanggu, Klaten. Website ini menyajikan informasi profil toko, layanan konsultasi pertanian, layanan BRILink, serta katalog produk pertanian lengkap. Dibangun menggunakan **React.js + Vite** dan **Tailwind CSS** dengan integrasi WhatsApp untuk memudahkan komunikasi langsung dengan pelanggan.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚜 Fitur Utama
 
-## Expanding the ESLint configuration
+- 🏪 **Profil Toko**
+  - Informasi tentang toko, visi misi, dan komitmen dalam mendukung petani lokal.
+  - Sosial media toko Daffa Tani Delanggu
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧑‍🌾 **Layanan Toko**
+  - **Konsultasi Pertanian**: Pelanggan dapat menghubungi langsung untuk konsultasi seputar pertanian.
+  - **Layanan BRILink**: Melayani transaksi keuangan seperti transfer, tarik tunai, dan pembayaran.
+
+- 🛒 **Produk yang Dijual**
+  - **Pupuk Subsidi**
+  - **Pupuk Non-Subsidi**
+  - **Obat Pertanian (Pestisida, Fungisida, dll.)**
+  - **Alat & Sarana Pertanian**
+
+- 📞 **Form Kontak Terhubung WhatsApp**
+  - Pelanggan yang mengisi form akan diarahkan otomatis ke WhatsApp penjual.
+
+---
+
+## ⚙️ Teknologi yang Digunakan
+
+- [React.js](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/)
+- [WhatsApp API Link](https://wa.me/)
+
+---
+
+## 🚀 Instalasi
+
+1. Clone repositori:
+
+```bash
+git clone https://github.com/daffahammam/landingpage-daffatani.git
+cd daffa-tani-landingpage
+
+2. Install dependensi:
+
+npm install
+
+
+3. Jalankan development server:
+
+npm run dev
+
