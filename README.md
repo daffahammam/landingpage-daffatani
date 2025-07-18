@@ -23,6 +23,10 @@
 - 📞 **Form Kontak Terhubung WhatsApp**
   - Pelanggan yang mengisi form akan diarahkan otomatis ke WhatsApp penjual.
 
+> Overview the landing page website
+  <img width="720" height="3249" alt="image" src="https://github.com/user-attachments/assets/2b04172c-4f9f-4f96-8574-44f0e718ce78" />
+
+
 ---
 
 ## ⚙️ Teknologi yang Digunakan
